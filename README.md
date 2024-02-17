@@ -23,3 +23,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 
 
 ## TAMBAHAN YA GES YAK ##
+
+
+PerBARUI untuk squash
